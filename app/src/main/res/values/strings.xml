@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">example 031</string>
+    <string name="second">This was started by an intent</string>
+    <string name="mi_main">Main Activity</string>
+    <string name="mi_second">Second Activity</string>
+    <string name="btn_text">Start Second Activity</string>
+</resources>
